@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whatcannisay
+- 👋 Hi, I’m @Automatonzy
 - 👀 I’m interested in exercising
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
